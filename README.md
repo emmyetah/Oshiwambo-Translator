@@ -18,7 +18,7 @@ This project is an attempt to create a simple but meaningful tool that makes com
 - Simple and intuitive mobile interface
 - Designed for quick everyday communication
 
-  # Technologies
+# Technologies
 - Flutter – cross-platform mobile development
 - Dart – application logic
 - SQLite / local storage – translation data
